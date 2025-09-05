@@ -69,7 +69,7 @@ education:
     date_start: 2021-09-01
     date_end: 2024-07-18
     summary: |
-      GPA: 110 / 110 cum laude
+      Final mark: 110 / 110 cum laude
     
 work:
   - position: Pre-doctoral Researcher
