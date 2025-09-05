@@ -36,7 +36,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
         I am a Pre-doctoral Researcher and Master's Student at the University of Foggia, where I work on Digital Humanities. My main projects involve the use of computational methods to study Classical languages, but I am also interested in the application of NLP to any kind of historical or literary data. I am a Junior Social Media Editor at the Journal of Open Humanities Data. My interests include Network Analysis, RAG, Latin poetry, computational literary studies, historical newspapers, EdTech and much more. Collaborations are always welcome - feel free to reach out!
