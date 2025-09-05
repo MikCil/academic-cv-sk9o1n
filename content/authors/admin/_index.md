@@ -101,7 +101,7 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: python
+        icon: devicon/python
       - name: Data Science
         description: ''
         percent: 100
@@ -109,7 +109,7 @@ skills:
       - name: NLP
         description: ''
         percent: 100
-        icon: open-data
+        icon: devicon/open-data
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -117,15 +117,15 @@ skills:
       - name: Bass playing
         description: ''
         percent: 70
-        icon: bass
+        icon: custom/bass
       - name: Origami
         description: ''
         percent: 100
-        icon: origami
+        icon: custom/origami
       - name: Cycling
         description: ''
         percent: 80
-        icon: bycicle
+        icon: custom/bycicle
 
 languages:
   - name: Italian
