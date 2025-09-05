@@ -39,11 +39,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am a Pre-doctoral Researcher and Master's Student at the University of Foggia, where I work on Digital Humanities. My main projects involve the use of computational methods to study Classical languages, but I am also interested in the application of NLP to any kind of historical or literary data. I am a Junior Social Media Editor at the Journal of Open Humanities Data. My interests include Network Analysis, RAG, Latin poetry, computational literary studies, historical newspapers, EdTech and much more. Collaborations are always welcome - feel free to reach out!
     design:
       columns: '1'
   - block: collection
