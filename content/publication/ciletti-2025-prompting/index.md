@@ -9,4 +9,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 63rd Annual Meeting of the Association for Computational
   Linguistics (Volume 4: Student Research Workshop)*'
+featured: true
 ---
