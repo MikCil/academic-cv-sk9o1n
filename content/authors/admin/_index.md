@@ -101,7 +101,7 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: python
       - name: Data Science
         description: ''
         percent: 100
@@ -109,7 +109,7 @@ skills:
       - name: NLP
         description: ''
         percent: 100
-        icon: circle-stack
+        icon: open-data
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -117,11 +117,11 @@ skills:
       - name: Bass playing
         description: ''
         percent: 70
-        icon: bass
+        icon: custom/bass
       - name: Origami
         description: ''
         percent: 100
-        icon: origami
+        icon: custom/origami
       - name: Cycling
         description: ''
         percent: 80
@@ -147,4 +147,4 @@ awards:
 
 ## About Me
 
-Master's student and researcher in Digital Humanities @ Unifg, bass player and huge fan of open access, orecchiette, haiku, myths and technology used for social good. Currently working on NLP, classics, computational linguistics and EdTech.
+Master's student and researcher in Digital Humanities at the University of Foggia, bass player and huge fan of open access, orecchiette, haiku, myths and technology used for social good. Currently working on NLP, classics, computational linguistics and EdTech.
