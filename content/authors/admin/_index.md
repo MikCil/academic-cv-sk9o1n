@@ -109,7 +109,7 @@ skills:
       - name: NLP
         description: ''
         percent: 100
-        icon: devicon/open-data
+        icon: academicons/open-data
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -117,15 +117,15 @@ skills:
       - name: Bass playing
         description: ''
         percent: 70
-        icon: custom/bass
+        icon: hero/musical-note
       - name: Origami
         description: ''
         percent: 100
-        icon: custom/origami
+        icon: hero/paper-airplane
       - name: Cycling
         description: ''
         percent: 80
-        icon: custom/bycicle
+        icon: hero/globe-europe-africa
 
 languages:
   - name: Italian
