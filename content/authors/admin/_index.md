@@ -75,7 +75,7 @@ work:
   - position: Pre-doctoral Researcher
     company_name: University of Foggia
     company_url: 'https://www.unifg.it/en'
-    company_logo: assets/media/unifg.png
+    company_logo: unifg.png
     date_start: 2021-04-01
     date_end: ''
     summary: |2-
@@ -85,7 +85,7 @@ work:
       - Strategic planning for Web Radio and Web TV networks
   - position: Junior Social Media Editor
     company_name: Journal of Open Humanities Data
-    company_url: ''
+    company_url: https://openhumanitiesdata.metajnl.com/
     company_logo: ''
     date_start: 2025-07-18
     date_end: ''
