@@ -117,11 +117,11 @@ skills:
       - name: Bass playing
         description: ''
         percent: 70
-        icon: custom/bass
+        icon: bass
       - name: Origami
         description: ''
         percent: 100
-        icon: custom/origami
+        icon: origami
       - name: Cycling
         description: ''
         percent: 80
