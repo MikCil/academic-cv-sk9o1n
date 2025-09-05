@@ -1,0 +1,14 @@
+---
+title: 'ARTIFICIAL INTELLIGENCE AND EMOTIONS: AN EXPLORATORY SURVEY ON THE PERCEPTION
+  OF AI TECHNOLOGIES BETWEEN SUPPORT TEACHERS IN TRAINING'
+authors:
+- Guendalina Peconio
+- Michele Ciletti
+- Martina Rossi
+- Giusi Antonia Toto
+date: '2024-01-01'
+publishDate: '2025-09-05T10:23:09.248037Z'
+publication_types:
+- article-journal
+publication: '*ITALIAN JOURNAL OF HEALTH EDUCATION, SPORT AND INCLUSIVE DIDACTICS*'
+---
