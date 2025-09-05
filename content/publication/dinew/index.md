@@ -6,7 +6,7 @@ authors:
 - Simona Arace
 - Michele Ciletti
 date: -01-01
-publishDate: '2025-09-05T10:23:09.267226Z'
+publishDate: '2025-09-05'
 publication_types:
 - article-journal
 ---
