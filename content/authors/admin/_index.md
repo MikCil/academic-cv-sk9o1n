@@ -75,7 +75,7 @@ work:
   - position: Pre-doctoral Researcher
     company_name: University of Foggia
     company_url: 'https://www.unifg.it/en'
-    company_logo: 'unifg.png'
+    company_logo: assets/media/unifg.png
     date_start: 2021-04-01
     date_end: ''
     summary: |2-
